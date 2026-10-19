@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="main_title">Unit Converter</string>
+    <string name="main_subtitle">Choose the type of conversion</string>
+    <string name="temperature_converter">Temperature Converter</string>
+    <string name="length_converter">Length Converter</string>
+    <string name="weight_converter">Mass Converter</string>
+    <string name="enter_value">Value to convert</string>
+    <string name="value_hint">Enter a number</string>
+    <string name="convert_from">Convert from</string>
+    <string name="convert_to">Convert to</string>
+    <string name="convert">Convert</string>
+    <string name="back">Back</string>
+    <string name="result_placeholder">The result will appear here.</string>
+    <string name="result_format">%1$s %2$s = %3$s %4$s</string>
+    <string name="error_empty">Please enter a value.</string>
+    <string name="error_invalid">Enter a valid number.</string>
+    <string name="error_negative">Length and mass cannot be negative.</string>
+    <string name="error_select_units">Select the units to convert.</string>
+    <string name="error_result">The result is outside the valid range.</string>
+    <string name="kelvin">Kelvin (K)</string>
+    <string name="celsius">Celsius (°C)</string>
+    <string name="fahrenheit">Fahrenheit (°F)</string>
+    <string name="kilometre">Kilometre (km)</string>
+    <string name="mile">Mile (mi)</string>
+    <string name="yard">Yard (yd)</string>
+    <string name="kilogram">Kilogram (kg)</string>
+    <string name="pound">Pound (lb)</string>
+    <string name="ounce">Ounce (oz)</string>
+    <string name="dr_stone_logo">Dr. Stone symbol</string>
+</resources>

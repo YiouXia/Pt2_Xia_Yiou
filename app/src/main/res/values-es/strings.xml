@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor de unidades</string>
+    <string name="main_title">Conversor de unidades</string>
+    <string name="main_subtitle">Elige el tipo de conversión</string>
+    <string name="temperature_converter">Conversor de temperatura</string>
+    <string name="length_converter">Conversor de longitud</string>
+    <string name="weight_converter">Conversor de masa</string>
+    <string name="enter_value">Valor que quieres convertir</string>
+    <string name="value_hint">Introduce un número</string>
+    <string name="convert_from">Convertir desde</string>
+    <string name="convert_to">Convertir a</string>
+    <string name="convert">Convertir</string>
+    <string name="back">Volver</string>
+    <string name="result_placeholder">El resultado aparecerá aquí.</string>
+    <string name="result_format">%1$s %2$s = %3$s %4$s</string>
+    <string name="error_empty">Introduce un valor.</string>
+    <string name="error_invalid">Introduce un número válido.</string>
+    <string name="error_negative">La longitud y la masa no pueden ser negativas.</string>
+    <string name="error_select_units">Selecciona las unidades de conversión.</string>
+    <string name="error_result">El resultado está fuera del rango válido.</string>
+    <string name="kelvin">Kelvin (K)</string>
+    <string name="celsius">Celsius (°C)</string>
+    <string name="fahrenheit">Fahrenheit (°F)</string>
+    <string name="kilometre">Kilómetro (km)</string>
+    <string name="mile">Milla (mi)</string>
+    <string name="yard">Yarda (yd)</string>
+    <string name="kilogram">Kilogramo (kg)</string>
+    <string name="pound">Libra (lb)</string>
+    <string name="ounce">Onza (oz)</string>
+    <string name="dr_stone_logo">Símbolo de Dr. Stone</string>
+</resources>

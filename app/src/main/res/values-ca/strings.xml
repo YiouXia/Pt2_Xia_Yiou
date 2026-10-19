@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conversor d’unitats</string>
+    <string name="main_title">Conversor d’unitats</string>
+    <string name="main_subtitle">Tria el tipus de conversió</string>
+    <string name="temperature_converter">Conversor de temperatura</string>
+    <string name="length_converter">Conversor de longitud</string>
+    <string name="weight_converter">Conversor de massa</string>
+    <string name="enter_value">Valor que vols convertir</string>
+    <string name="value_hint">Introdueix un nombre</string>
+    <string name="convert_from">Convertir des de</string>
+    <string name="convert_to">Convertir a</string>
+    <string name="convert">Convertir</string>
+    <string name="back">Enrere</string>
+    <string name="result_placeholder">El resultat apareixerà aquí.</string>
+    <string name="result_format">%1$s %2$s = %3$s %4$s</string>
+    <string name="error_empty">Introdueix un valor.</string>
+    <string name="error_invalid">Introdueix un nombre vàlid.</string>
+    <string name="error_negative">La longitud i la massa no poden ser negatives.</string>
+    <string name="error_select_units">Selecciona les unitats de conversió.</string>
+    <string name="error_result">El resultat està fora del rang vàlid.</string>
+    <string name="kelvin">Kelvin (K)</string>
+    <string name="celsius">Celsius (°C)</string>
+    <string name="fahrenheit">Fahrenheit (°F)</string>
+    <string name="kilometre">Quilòmetre (km)</string>
+    <string name="mile">Milla (mi)</string>
+    <string name="yard">Iarda (yd)</string>
+    <string name="kilogram">Quilogram (kg)</string>
+    <string name="pound">Lliura (lb)</string>
+    <string name="ounce">Unça (oz)</string>
+    <string name="dr_stone_logo">Símbol de Dr. Stone</string>
+</resources>
